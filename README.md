@@ -15,7 +15,7 @@ This repository contains an interactive **Excel Dashboard** built using:
 - **Top/Bottom Products**: Identify the most and least profitable products
 
 ## 🖼️ Preview
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](dashboard-preview.png.jpg)
 
 ## 🚀 How to Use
 1. Download the file [`Copy of Q7. Dashboard.xlsx`](./Copy%20of%20Q7.%20Dashboard(Power%20Query,Power%20Pivot,Data%20Modelling,Pivot%20tables%20and%20charts,slicers).xlsx).
